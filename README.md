@@ -10,8 +10,6 @@ I am a backend developer passionate about technology and always looking to learn
 
 ## 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickGBR&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=radical)
 
 ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErickGBR&theme=radical)
