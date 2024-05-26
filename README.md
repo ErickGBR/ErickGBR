@@ -10,9 +10,7 @@ I am a backend developer passionate about technology and always looking to learn
 
 ## 📊 My Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=radical)
-
-![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErickGBR&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=radical) ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErickGBR&theme=radical)
 
 ## 🏆 Achievements
 
