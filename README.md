@@ -1,4 +1,4 @@
-# Hi there, welcome to my github profile 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on **Node.js and TypeScript Backend**
 - 🌱 I’m currently learning **Python**
