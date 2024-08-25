@@ -48,9 +48,6 @@ I am a backend developer passionate about technology and always looking to learn
 	</table>
 </div>
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/erickgbr/)
 
 ## 📫 How to Reach Me
 
