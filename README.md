@@ -49,10 +49,6 @@ I am a backend developer passionate about technology and always looking to learn
 </div>
 
 
-## 📫 How to Reach Me
-
-You can contact me via [email](mailto:eburgosrivas1997@gmail.com).
-
 ---
 
 Thanks for visiting my profile!
