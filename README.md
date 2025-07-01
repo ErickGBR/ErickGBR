@@ -14,8 +14,8 @@ I am a backend developer passionate about technology and always looking to learn
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ErickGBR&theme=radical)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ErickGBR&theme=onestar)
+<
 ## 🛠️ Technologies and Tools
 
 <div align="center">
