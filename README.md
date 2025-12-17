@@ -1,12 +1,12 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on **Node.js and TypeScript Backend**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Software Patterns**
   
 
 ## 🚀 About Me
 
-I am a backend developer passionate about technology and always looking to learn new things. My hobbies include going to the gym 🏋️, programming 💻, going to the beach 🏖️, watching anime 🎌, and playing video games 🎮.
+I am a FullStack developer passionate about technology and always looking to learn new things. My hobbies include going to the gym 🏋️, programming 💻, going to the beach 🏖️, watching anime 🎌, and playing video games 🎮.
 
 ## 📊 My Stats
 
