@@ -12,6 +12,8 @@ I am a backend developer passionate about technology and always looking to learn
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=radical) ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErickGBR&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickGBR&label=Profile views&color=0e75b6&style=flat" alt="ErickGBR" /> </p>
+
 ## 🏆 Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ErickGBR&theme=onestar)
