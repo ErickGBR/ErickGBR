@@ -2,15 +2,6 @@
 
 ### 🚀 Software Developer | AI & Cloud
 
----
-
-## 🤖 AI-Augmented Engineering (My Edge)
-I don't just use AI; I orchestrate advanced workflows to accelerate delivery and ensure code quality:
-* **Hybrid Reasoning**: Leveraging **Claude 3.5 Sonnet** & **Gemini 1.5 Pro** for complex architectural planning and deep reasoning.
-* **Local Edge Computing**: Running **Qwen 2.5 (8B/1.5B)** and **DeepSeek Coder** locally via **Ollama** for private, secure, and ultra-fast development.
-* **Semantic Search & RAG**: Implementing **Nomic-Embed-Text** for local documentation indexing and specialized vector-based AI skills.
-
----
 
 ## 🛠️ Specialized Skill Set
 
