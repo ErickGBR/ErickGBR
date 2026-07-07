@@ -95,7 +95,7 @@ Backend developer con **8+ años** de experiencia construyendo aplicaciones web 
 
 <div align="center">
 
-### [Runo ERP](https://github.com/ErickGBR/ERP)
+### [Runo ERP](https://github.com/ErickGBR/poject-runo)
 Sistema ERP completo — NestJS 11 + Next.js 15 + PostgreSQL + Docker + JWT + CSRF  
 `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `TypeORM` `JWT` `CSRF`
 
@@ -107,30 +107,22 @@ Plataforma de bio-links tipo Linktree con autenticación y analytics
 Integración con WhatsApp Business API + bot automatizado  
 `TypeScript` `WhatsApp API` `Webhooks` `Node.js`
 
-### [Microservices Gateway](https://github.com/ErickGBR/microservices-gateway)
-API Gateway para arquitectura de microservicios  
-`NestJS` `RabbitMQ` `PostgreSQL` `Docker`
-
-### [My Blog API](https://github.com/ErickGBR/nest-course)
-API REST para blog con autenticación y contenido  
-`NestJS` `TypeORM` `PostgreSQL` `JWT` `Docker`
-
 </div>
 
 <br>
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Campañas Completadas
 
-| Periodo | Empresa | Rol | Tecnologías |
-|---------|---------|-----|-------------|
-| **Sep 2021 — Presente** | SaaS CRM (actual) | Backend Developer | TypeScript, Node.js, Firebase, REST APIs |
-| **Jul 2021 — Sep 2021** | Urban City Media | Full-stack Developer | ERPNext, Python, PHP, Flutter |
-| **Feb 2021 — Abr 2021** | TAKHYON | Mobile Developer | Xamarin, .NET, C# |
-| **Abr 2019 — Nov 2020** | CEFINCO | Programmer Technician | PHP, Node.js, MySQL |
-| **Nov 2018 — Feb 2019** | Telefónica | IT Programmer | AWS Lambda, DynamoDB, Telegram API |
-| **Jun 2017 — Dic 2017** | Tin Marín Museo | IT Assistant | Soporte técnico, redes |
+| Período | Rol | Tecnologías |
+|---------|-----|-------------|
+| **Sep 2021 — Presente** | Backend Developer | TypeScript, Node.js, Firebase, REST APIs |
+| **Jul 2021 — Sep 2021** | Full-stack Developer | ERPNext, Python, PHP, Flutter |
+| **Feb 2021 — Abr 2021** | Mobile Developer | Xamarin, .NET, C# |
+| **Abr 2019 — Nov 2020** | Programmer Technician | PHP, Node.js, MySQL |
+| **Nov 2018 — Feb 2019** | IT Programmer | AWS Lambda, DynamoDB, Telegram API |
+| **Jun 2017 — Dic 2017** | IT Assistant | Soporte técnico, redes |
 
 <br>
 
