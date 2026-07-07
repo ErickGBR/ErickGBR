@@ -23,7 +23,7 @@
 const erick = {
   role: "Backend Developer",
   experience: "8+ years building web & mobile applications",
-  focus: ["SaaS CRM", "API Design", "AI Integrations", "Cloud Architecture"],
+  focus: ["SaaS CRM", "API Design", "AI Agent Architecture", "AI Integrations", "Cloud Architecture"],
   stack: ["TypeScript", "NestJS", "Node.js", "React", "PostgreSQL", "Docker"],
   location: "El Salvador",
   available: "Full-time Remote · Contract · Consulting",
@@ -31,7 +31,7 @@ const erick = {
 };
 ```
 
-Backend developer con **8+ años** de experiencia construyendo aplicaciones web y móviles escalables. Actualmente desarrollo backend para una plataforma **SaaS CRM** usando TypeScript, Node.js y Firebase. Apasionado por la arquitectura limpia, APIs bien diseñadas, automatización de procesos, e integración de inteligencia artificial en sistemas productivos.
+Backend developer con **8+ años** de experiencia construyendo aplicaciones web, móviles y sistemas de agentes de IA escalables. Actualmente desarrollo backend para una plataforma **SaaS CRM** usando TypeScript, Node.js y Firebase. También diseño arquitecturas de **agentes de IA multi-sistema** — incluyendo hooks, skills, tool-use, y sistemas de orquestación de agentes para automatización inteligente.
 
 <br>
 
@@ -165,6 +165,7 @@ Integración con WhatsApp Business API + bot automatizado
 
 ```
 🤖 AI & LLMs     → Claude, OpenAI, Gemini, RAG pipelines, tool use, function calling
+🧠 AI Agents     → Multi-agent architectures, hooks, skills, tool-use, prompt engineering, agent orchestration
 📞 CPaaS         → Twilio (Voice, SMS, IVR), WhatsApp Business API, Telegram Bots
 🏗️ Arquitectura  → REST, Microservicios, Event-driven, CQRS, API Gateway
 ☁️ Cloud         → AWS (Lambda, DynamoDB), GCP, Docker, Kubernetes, Nginx
