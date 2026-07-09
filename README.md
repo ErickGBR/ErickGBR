@@ -63,9 +63,13 @@ const erick = {
 
 ### AI & Tools
 
-[![AI](https://skillicons.dev/icons?i=anthropic,firebase)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=anthropic,firebase,vscode,postman,supabase)](https://skillicons.dev)
 
-</div>
+<br>
+
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4F2EE8?style=for-the-badge&logo=deepseek&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br>
 
