@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3A9D23&center=true&vCenter=true&width=500&height=70&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+%E2%96%88%E2%96%88;Erick+Burgos;Backend+Developer+%7C+El+Salvador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3A9D23&center=true&vCenter=true&width=500&height=70&lines=%3E+erick.burgos();;%3E+Backend+Developer;%3E+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;%3E+Build+the+change.)](https://git.io/typing-svg)
 
 > *"Building production-grade systems where AI, cloud infrastructure, and robust backend architecture converge."*
 
@@ -115,7 +115,7 @@ Integración con WhatsApp Business API + bot automatizado
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickGBR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=E6EDF3&border_color=30363D&count_private=true&include_all_commits=true)](https://github.com/ErickGBR)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErickGBR&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=D97706&fire=D97706&currStreakLabel=E6EDF3)](https://github.com/ErickGBR)
+[![Streak Stats](https://streak-stats.demolab.com?user=ErickGBR&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=D97706&fire=D97706&currStreakLabel=E6EDF3)](https://github.com/ErickGBR)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D97706&text_color=E6EDF3&border_color=30363D&langs_count=8)](https://github.com/ErickGBR)
 
