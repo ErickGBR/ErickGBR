@@ -63,13 +63,14 @@ const erick = {
 
 ### AI & Tools
 
-[![AI](https://skillicons.dev/icons?i=anthropic,firebase,vscode,postman,supabase)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=anthropic,firebase)](https://skillicons.dev)
 
 <br>
 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4F2EE8?style=for-the-badge&logo=deepseek&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Minimax](https://img.shields.io/badge/Minimax-FF6F00?style=for-the-badge&logo=minimax&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=gemini&logoColor=white)
 
 <br>
 
