@@ -91,9 +91,9 @@ const erick = {
 
 <div align="center">
 
-### [🏗️ Runo ERP](https://github.com/ErickGBR/poject-runo)
-Sistema ERP completo — NestJS 11 + Next.js 15 + PostgreSQL + Docker + JWT + CSRF  
-`TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `TypeORM`
+### [🏗️ Run ERP Free](https://github.com/ErickGBR/run-mvp)
+Open-source ERP MVP — NestJS 11 + Next.js 15 + PostgreSQL + Docker + JWT + CSRF  
+`TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `TypeORM` `Tailwind`
 
 ### [🔗 Devtree](https://github.com/ErickGBR/Devtree-frontend)
 Plataforma de bio-links tipo Linktree con autenticación y analytics  
@@ -118,6 +118,20 @@ Integración con WhatsApp Business API + bot automatizado
 [![Streak Stats](https://streak-stats.demolab.com?user=ErickGBR&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=D97706&fire=D97706&currStreakLabel=E6EDF3)](https://github.com/ErickGBR)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D97706&text_color=E6EDF3&border_color=30363D&langs_count=8)](https://github.com/ErickGBR)
+
+</div>
+
+<br>
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/ErickGBR/ErickGBR/output/snake.svg)
+
+*Mi serpiente recorriendo las contribuciones — como el clásico snake game* 🎮
 
 </div>
 
