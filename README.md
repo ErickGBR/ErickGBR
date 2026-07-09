@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3A9D23&center=true&vCenter=true&width=500&height=70&lines=%3E+erick.burgos();;%3E+Backend+Developer;%3E+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;%3E+Build+the+change.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=800&color=3A9D23&center=true&vCenter=true&width=550&height=80&lines=%3E+ERICK+BURGOS;%3E+BACKEND+DEVELOPER;%3E+EL+SALVADOR+%F0%9F%87%B8%F0%9F%87%BB;%3E+BUILD+THE+CHANGE)](https://git.io/typing-svg)
 
 > *"Building production-grade systems where AI, cloud infrastructure, and robust backend architecture converge."*
 
@@ -123,21 +123,7 @@ Integración con WhatsApp Business API + bot automatizado
 
 <br>
 
----
 
-## 🐍 Snake Game
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/ErickGBR/ErickGBR/output/snake.svg)
-
-*Mi serpiente recorriendo las contribuciones — como el clásico snake game* 🎮
-
-</div>
-
-<br>
-
----
 
 ## 💼 Experiencia
 
