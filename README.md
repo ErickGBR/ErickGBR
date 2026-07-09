@@ -107,23 +107,6 @@ Integración con WhatsApp Business API + bot automatizado
 
 <br>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickGBR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=E6EDF3&border_color=30363D&count_private=true&include_all_commits=true)](https://github.com/ErickGBR)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=ErickGBR&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=D97706&fire=D97706&currStreakLabel=E6EDF3)](https://github.com/ErickGBR)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D97706&text_color=E6EDF3&border_color=30363D&langs_count=8)](https://github.com/ErickGBR)
-
-</div>
-
-<br>
-
-
 
 ## 💼 Experiencia
 
