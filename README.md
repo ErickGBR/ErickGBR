@@ -98,7 +98,7 @@ const erick = {
 
 ### [🏗️ Run ERP Free](https://github.com/ErickGBR/run-mvp)
 Open-source ERP MVP — NestJS 11 + Next.js 15 + PostgreSQL + Docker + JWT + CSRF  
-`TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `TypeORM` `Tailwind`
+[🔗 Live Demo](https://open-erp-mvp.onrender.com/) — `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `TypeORM` `Tailwind`
 
 ### [🔗 Devtree](https://github.com/ErickGBR/Devtree-frontend)
 Bio-links platform like Linktree with authentication and analytics  
