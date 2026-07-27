@@ -32,7 +32,7 @@ const erick = {
   role: "Software Developer",
   experience: "8+ years building web, mobile & AI applications",
   focus: ["SaaS CRM", "API Design", "AI Agent Architecture", "Cloud Architecture"],
-  stack: ["TypeScript", "NestJS", "Node.js", "React", "PostgreSQL", "Docker"],
+  stack: ["TypeScript", "NestJS", "Node.js", "PHP", "Laravel", ".NET", "React", "Flutter", "PostgreSQL", "MongoDB", "Docker", "Kubernetes", "GCP"],
   location: "El Salvador",
   available: "Full-time Remote · Contract · Consulting",
   motto: "Be the change you want to see in the world!",
@@ -45,21 +45,65 @@ const erick = {
 
 <div align="center">
 
-### Backend
+### Backend — Lenguajes & Frameworks
 
-[![Backend](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,py,django,flask,php,laravel,cs,dotnet)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,fastify,py,django,flask,php,laravel,symfony,cs,dotnet)](https://skillicons.dev)
+
+<br>
+
+![PHP](https://img.shields.io/badge/PHP_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Backend — ORMs, APIs & Herramientas
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Frontend & Mobile
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter)](https://skillicons.dev)
 
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ### Databases
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite)](https://skillicons.dev)
 
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 ### Cloud & DevOps
 
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,githubactions,linux)](https://skillicons.dev)
+
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### AI & Tools
 
@@ -69,7 +113,7 @@ const erick = {
 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4F2EE8?style=for-the-badge&logo=deepseek&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Minimax](https://img.shields.io/badge/Minimax-FF6F00?style=for-the-badge&logo=minimax&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3F58?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=gemini&logoColor=white)
 
 <br>
