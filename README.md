@@ -104,7 +104,7 @@ const erick = {
 </a>
 <br>
 <a href="https://github.com/ErickGBR">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,handlebars" />
 </a>
 <a href="https://github.com/ErickGBR">
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickGBR&theme=tokyo-night&hide_border=true" />
