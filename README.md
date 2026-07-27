@@ -96,7 +96,23 @@ const erick = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ErickGBR&theme=tokyonight&hide_border=true)](https://github.com/ErickGBR)
+<a href="https://github.com/ErickGBR">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ErickGBR&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ErickGBR">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ErickGBR&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<a href="https://github.com/ErickGBR">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ErickGBR&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ErickGBR">
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickGBR&theme=tokyo-night&hide_border=true" />
+</a>
+<br>
+<a href="https://github.com/ErickGBR">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ErickGBR&theme=tokyonight&no-frame=true&row=1&column=7" />
+</a>
 
 </div>
 
