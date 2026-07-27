@@ -92,6 +92,18 @@ const erick = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ErickGBR&theme=tokyonight&hide_border=true)](https://github.com/ErickGBR)
+
+</div>
+
+<br>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
