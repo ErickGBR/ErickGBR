@@ -111,7 +111,7 @@ const erick = {
 </a>
 <br>
 <a href="https://github.com/ErickGBR">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ErickGBR&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img width="95%" src="https://trophy.benkou.dev/?username=ErickGBR&theme=tokyonight&no-frame=true&row=1&column=7" />
 </a>
 
 </div>
