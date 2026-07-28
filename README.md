@@ -172,6 +172,14 @@ const erick = {
 Open-source ERP MVP — NestJS 11 + Next.js 15 + PostgreSQL + Docker + JWT + CSRF  
 [🔗 Live Demo](https://open-erp-mvp.onrender.com/) — `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `TypeORM` `Tailwind`
 
+### [📅 Boo-king](https://github.com/ErickGBR/boo-king)
+Full-featured appointment platform — Google OAuth, Calendar sync, Meet, Maps, rescheduling  
+[🔗 Live Demo](https://cooking-v1.onrender.com/) — `React` `Node.js` `Prisma` `SQLite` `Tailwind` `Google APIs` `PWA`
+
+### [📅 Boo-king MVP](https://github.com/ErickGBR/boo-king-mvp)
+Business-focused appointment platform — Email notifications, multi-language, roles, responsive  
+`React` `Node.js` `Prisma` `SQLite` `Tailwind` `i18n` `Nodemailer` `PWA`
+
 ### [🔗 Devtree](https://github.com/ErickGBR/Devtree-frontend)
 Bio-links platform like Linktree with authentication and analytics  
 `React` `Vite` `Tailwind CSS` `TypeScript` `Express` `MongoDB`
