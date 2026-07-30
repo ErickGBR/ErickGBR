@@ -178,7 +178,7 @@ Business appointment platform — Email notifications, multi-language, roles, PW
 
 ### [💬 WhatsApp Cloud API](https://github.com/ErickGBR/whatsapp-cloud-api)
 WhatsApp Business API integration + automated bot  
-`TypeScript` `WhatsApp API` `Webhooks` `Node.js`
+[🔗 Live Demo](https://whatsapp-cloud-api-xkf7.onrender.com/) — `TypeScript` `WhatsApp API` `Webhooks` `Node.js`
 
 </div>
 
