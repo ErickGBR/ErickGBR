@@ -106,9 +106,6 @@ const erick = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### AI & Tools
-
-[![AI](https://skillicons.dev/icons?i=anthropic,firebase)](https://skillicons.dev)
-
 <br>
 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4F2EE8?style=for-the-badge&logo=deepseek&logoColor=white)
