@@ -21,7 +21,7 @@
 
 <img align="right" alt="Ghost in the Shell" width="400" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif">
 
-I'm a **Software Developer** from El Salvador 🇸🇻 with **8+ years** of experience building web, mobile, and scalable AI agent systems across the full stack.
+I'm a **Software Developer** from El Salvador 🇸🇻 with experience building web, mobile, and scalable AI agent systems across the full stack.
 
 I've always been fascinated by how technology 🌐 transforms our lives. That curiosity led me to specialize in robust architectures, and today I design systems that combine **TypeScript, Node.js, NestJS, and cloud infrastructure** to solve real-world problems.
 
