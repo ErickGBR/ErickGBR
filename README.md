@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=ErickGBR&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erickgbr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickgbr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ehx.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://ehx.vercel.app/](https://sv.eburgos-web-developer.workers.dev/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-ehx.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sv.eburgos-web-developer.workers.dev/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eburgos.web.developer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@ErickGBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickGBR)
 
